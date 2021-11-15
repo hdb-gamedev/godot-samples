@@ -1,6 +1,6 @@
 # godot-samples
 
-## basic
+## simple-player-controller
 Basic example--use this as a base to create a player controller.
 
 The environment is already set up:
