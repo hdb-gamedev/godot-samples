@@ -8,4 +8,4 @@ The environment is already set up:
 - Player animations `idle` by default, and `walk` available to switch to
 - Input map with `move_left` `move_right` and `jump`
 
-![screenshot](https://user-images.githubusercontent.com/25110595/141861168-525a510f-7aff-4724-bdb2-26c8d855f8cc.png)
+![screenshot](https://user-images.githubusercontent.com/25110595/141862497-821031df-2e24-46c0-ad3a-bc64309551ec.png)
